@@ -1,0 +1,13 @@
+**Database:**
+We'll define some database definitions from different sources so we can understnd the basic meaning of this term.
+1) A database is a collection of related information. For example: Phonebook, your 5 best friends and shopping list etc. https://youtu.be/HXV3zeQKqGY
+
+
+**Storing Data**
+Data can be stored various ways:
+According to https://youtu.be/HXV3zeQKqGY:
+- On paper 
+- In your mind (Woah! your mind is a database!)
+- On computer 
+- Powerpoint 
+- Comments Section

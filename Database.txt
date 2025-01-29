@@ -2,7 +2,12 @@
 We'll define some database definitions from different sources so we can understnd the basic meaning of this term.
 1) A database is a collection of related information. For example: Phonebook, your 5 best friends and shopping list etc. https://youtu.be/HXV3zeQKqGY
 
-
+2) A database is a collection of related data. Here data means known facts that can be recorded and have implicit meaning. (Elmasri & Navathe., 2016).
+ - A database represents some aspect of the real world, sometimes called the miniworld or the universe of discourse (UoD). Changes to the miniworld
+are reflected in the database.
+ - A database is a logically coherent collection of data with some inherent meaning. A random assortment of data cannot correctly be referred to as a database.
+ - A database is designed, built, and populated with data for a specific purpose. It has an intended group of users and some preconceived applications in which these users are interested.
+ 
 **Storing Data**
 Data can be stored various ways:
 According to https://youtu.be/HXV3zeQKqGY:
@@ -11,3 +16,9 @@ According to https://youtu.be/HXV3zeQKqGY:
 - On computer 
 - Powerpoint 
 - Comments Section
+
+According to Elmasri & Navathe (2016)
+- Storing names, telephone numbers, address in mobile phones or in an indexed address book or in a hard drive
+
+References:
+Elmasri, R., & Navathe, S. B. (2016). Fundamentals of database systems seventh edition.

@@ -1,2 +1,5 @@
 **DATABASE MANAGEMENT SYSTEM**
 - A software programs that helps user to create and maintain database
+   - Helps to manage large amount of information
+   - Provide security
+   - Exporting/Importing data

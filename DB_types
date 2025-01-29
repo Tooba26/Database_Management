@@ -1,0 +1,10 @@
+**Types of Database**
+
+1) Relational Database (SQL)
+ - Data organized in tabular form
+ - A unique key to identify rows
+
+2) Non-relational Database (NoSQL)
+ - Not in tabular form
+  **Example**
+  

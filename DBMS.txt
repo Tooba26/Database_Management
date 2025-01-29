@@ -1,0 +1,2 @@
+**DATABASE MANAGEMENT SYSTEM**
+- A software programs that helps user to create and maintain database
